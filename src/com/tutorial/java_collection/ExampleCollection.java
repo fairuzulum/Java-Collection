@@ -1,4 +1,4 @@
-package com.tutorial.java_collection.interfaceCollection;
+package com.tutorial.java_collection;
 
 import java.util.ArrayList;
 import java.util.Collection;
